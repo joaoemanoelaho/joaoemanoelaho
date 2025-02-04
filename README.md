@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/joaoemanoelaho/banner/main/developer-coding-3840x2160-13642.png)
+![Banner](https://raw.githubusercontent.com/joaoemanoelaho/banner/main/banner.png)
 
 # 👋 Olá, eu sou João Emanoel!
 
