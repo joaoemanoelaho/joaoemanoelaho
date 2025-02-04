@@ -1,6 +1,6 @@
 ![Banner](https://raw.githubusercontent.com/joaoemanoelaho/banner/main/developer-coding-3840x2160-13642.png)
 
-# 👋 Olá, eu sou [Seu Nome]!
+# 👋 Olá, eu sou João Emanoel!
 
 Sou Desenvolvedor Full Stack, Analista de Negócios e entusiasta de tecnologia, atualmente aprimorando minhas habilidades em **C#** e **.NET**. Tenho experiência com **SQL Server**, desenvolvimento web e aplicações SaaS.
 
