@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou João Emanoel!
 
-Sou Desenvolvedor Full Stack, Analista de Negócios e entusiasta de tecnologia, atualmente aprimorando minhas habilidades em **C#** e **.NET**. Tenho experiência com **SQL Server**, desenvolvimento web e aplicações SaaS.
+Sou Desenvolvedor Full Stack e entusiasta de tecnologia, atualmente aprimorando minhas habilidades em **C#** e **.NET**. Tenho experiência com **SQL Server**, desenvolvimento web e aplicações SaaS.
 
 ---
 
@@ -22,10 +22,9 @@ Sou Desenvolvedor Full Stack, Analista de Negócios e entusiasta de tecnologia, 
 ---
 
 ## 📌 Projetos Recentes  
-- 🚗 **GeoFleet** - Aplicação para gestão de frotas em tempo real  
-- 💰 **SaaS Financeiro** - Sistema de controle financeiro com relatórios e assinaturas  
-- 🎭 **Ironia Federal** - Perfil de sátira e humor político no X (Twitter)  
-
+- 🚗 **Translator Scan** - Aplicação para tradução de mangás
+- 💰 **SaaS Financeiro** - Sistema de controle financeiro para streaming
+  
 ---
 
 ## 📊 Estatísticas do GitHub  
@@ -39,7 +38,6 @@ Sou Desenvolvedor Full Stack, Analista de Negócios e entusiasta de tecnologia, 
 ## 📫 Como me encontrar  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seuusuario)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seuusuario)  
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@candeiaaminhaalma)  
 
 ---
 
