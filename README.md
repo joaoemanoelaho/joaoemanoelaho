@@ -29,7 +29,7 @@ Sou Desenvolvedor Full Stack e entusiasta de tecnologia, atualmente aprimorando 
 
 ## 📊 Estatísticas do GitHub  
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuanAmaral20&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoemanoelaho&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoemanoelaho&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
